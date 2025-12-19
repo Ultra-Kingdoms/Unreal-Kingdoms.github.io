@@ -6,6 +6,6 @@ Ultra Kingdoms is owned by Cyber Ape Yacht Club with the purpose of being the bi
 
 Play, Engage, Learn, Work, Earn and Grow
 
-[https://unreal-kingdoms.github.io/Creator-Documentation/](https://ultra-kingdoms.github.io/Creator-Documentation/) \
-[https://unreal-kingdoms.github.io/Player-Documentation/](https://ultra-kingdoms.github.io/Player-Documentation/) \
-[https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/](https://ultra-kingdoms.github.io/UE-Game-Build-Toolkit-Community-Edition/)
+[https://ultra-kingdoms.github.io/Creator-Documentation/](https://ultra-kingdoms.github.io/Creator-Documentation/) \
+[https://ultra-kingdoms.github.io/Player-Documentation/](https://ultra-kingdoms.github.io/Player-Documentation/) \
+[https://ultra-kingdoms.github.io/UE-Game-Build-Toolkit/](https://ultra-kingdoms.github.io/UE-Game-Build-Toolkit-Community-Edition/)
